@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nb"
+  site-url: "https://daphn3k.github.io/nb"
+  description: "ndbev wt"
+  repo-branch: main
+  repo-url: "https://github.com/daphn3k/nb"
