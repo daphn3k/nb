@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nb",
+    "section": "",
+    "text": "pip install nb\n\n\n\n2\n\n\nNothing to say",
+    "crumbs": [
+      "nb"
+    ]
+  },
+  {
+    "objectID": "mod1.html",
+    "href": "mod1.html",
+    "title": "mod1",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello(\"Isaac\")\n\n'Hello Isaac!'\n\n\n\ntest_eq(say_hello(\"Hamel\"), \"Hello Hamel!\")",
+    "crumbs": [
+      "mod1"
+    ]
+  }
+]
