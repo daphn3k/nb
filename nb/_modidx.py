@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://daphn3k.github.io',
                 'git_url': 'https://github.com/daphn3k/nb',
                 'lib_path': 'nb'},
-  'syms': {'nb.core': {'nb.core.foo': ('core.html#foo', 'nb/core.py')}}}
+  'syms': { 'nb.core': {'nb.core.foo': ('core.html#foo', 'nb/core.py')},
+            'nb.mod1': {'nb.mod1.foo': ('mod1.html#foo', 'nb/mod1.py'), 'nb.mod1.say_hello': ('mod1.html#say_hello', 'nb/mod1.py')}}}
